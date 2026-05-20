@@ -1,9 +1,10 @@
-import { Text, View } from "react-native";
 
+import { Text, View } from "react-native";
 export default function Home() {
-  return (
+return (
     <View>
       <Text>PrayTogether is working</Text>
     </View>
   );
 }
+
